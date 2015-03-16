@@ -1,3 +1,4 @@
 +class {
   -linuxmint { image = "$$/grey_linuxmint.png" }
+  -kali { image = "$$/grey_kali.png" }
 }
