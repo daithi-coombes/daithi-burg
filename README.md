@@ -4,6 +4,7 @@ BURG Custom Icons
 -------------------
 #### Repository of additional icons for missing operating systems and linux distrobutions.
 
+Link to my tutorial on creating custom burg icons: [Cusotmize BURG Boot Loader](https://coombesy.wordpress.com/2015/03/16/customize-burg-boot-loader/)
 
 With the consistent release of linux distributions, propietary versions and also- operating systems I'm only finding out about - rebooting to check out the newly installed distro and finding the `?` icon in burg is starting to bug me.
 
