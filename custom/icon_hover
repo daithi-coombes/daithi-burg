@@ -1,0 +1,3 @@
++class {
+  -linuxmint { image = "$$/grey_linuxmint.png:$$/normal_linuxmint.png" }
+}

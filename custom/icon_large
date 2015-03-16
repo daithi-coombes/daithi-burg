@@ -1,0 +1,3 @@
++class {
+  -linuxmint { image = "$$/hover_linuxmint.png" }
+}

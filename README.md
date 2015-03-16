@@ -1,5 +1,20 @@
-# daithi-burg
-My custom burg theme - to include icons for as many repo's as possible.
+-------------------
+BURG Custom Icons
+=================
+-------------------
+#### Repository of additional icons for missing operating systems and linux distrobutions.
 
-This repo is more for my personal use and IS NOT fully working at the moment,
-when it is then this README will be different q[-_-]p
+
+With the consistent release of linux distributions, propietary versions and also- operating systems I'm only finding out about - rebooting to check out the newly installed distro and finding the `?` icon in burg is starting to bug me.
+
+For now, though, its just a pointlessly empty repo... again ;)
+
+<u>note</u>: these icons will be built for the [fortune theme](http://gnome-look.org/content/show.php/Fortune+-+BURG+Theme?content=128929)
+
+<u>also note</u>: The `linuxmint` icons, and a lot of the ground work, from this tutorial: [ubuntuhandbook.org - beautiful-boot-menu-burg-ubuntu](http://ubuntuhandbook.org/index.php/2014/02/beautiful-boot-menu-burg-ubuntu/)
+
+---------------
+####Roadmap:
+ - do custom icons
+ - (maybe a .deb installer?)
+ - do custom theme
