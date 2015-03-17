@@ -11,11 +11,10 @@ With the consistent release of linux distributions, propietary versions and also
 
 <ul>note:</ul> Absolutely no attempt is made, yet, to get icon's looking nice. I'm not a graphic designer but if you are and have some icons to contribute then please do ;)
 
-<u>also...:</u> these icons will be built for the [fortune theme](http://gnome-look.org/content/show.php/Fortune+-+BURG+Theme?content=128929)
-
-<u>also note:</u>
- - The `linuxmint` icons, and a lot of the ground work, from this tutorial: [ubuntuhandbook.org - beautiful-boot-menu-burg-ubuntu](http://ubuntuhandbook.org/index.php/2014/02/beautiful-boot-menu-burg-ubuntu/)
- - bohdi icon comes from here: http://de.wikipedia.org/wiki/Bodhi_Linux
+<u>icon sources:</u>
+ - `linuxmint` icons, and a lot of the ground work, from this tutorial: [ubuntuhandbook.org - beautiful-boot-menu-burg-ubuntu](http://ubuntuhandbook.org/index.php/2014/02/beautiful-boot-menu-burg-ubuntu/)
+ - bohdi icon http://de.wikipedia.org/wiki/Bodhi_Linux
+ - studio icon: [http://en.icône.com](http://en.icône.com/images/icones/2/6/distributions-ubuntu-studio.png)
 
 ---------------
 
@@ -32,6 +31,11 @@ then check everything works with:
 ```
 $ burg-emu
 ```
+
+
+##Icon not changing
+
+You may have multiple OS's with the same class name in burg. eg all ubuntu derivitaves might be called ubuntu. See the wiki here on: [how to set OS class names in [Finding or editing the OS class name using the BURB configuration file]
 
 ####Roadmap:
  - do custom icons
