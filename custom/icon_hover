@@ -1,4 +1,6 @@
 +class {
   -linuxmint { image = "$$/grey_linuxmint.png:$$/normal_linuxmint.png" }
   -kali { image = "$$/grey_kali.png:$$/normal_kali.png" }
+  -bodhi { image = "$$/grey_bodhi.png:$$/normal_bodhi.png" }
+  -studio { image = "$$/grey_studio.png:$$/normal_studio.png" }
 }
