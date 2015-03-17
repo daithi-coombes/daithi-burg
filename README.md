@@ -14,6 +14,7 @@ For now, though, its just a pointlessly empty repo... again ;)
 
 <u>also note</u>:
  - The `linuxmint` icons, and a lot of the ground work, from this tutorial: [ubuntuhandbook.org - beautiful-boot-menu-burg-ubuntu](http://ubuntuhandbook.org/index.php/2014/02/beautiful-boot-menu-burg-ubuntu/)
+ - bohdi icon comes from here: http://de.wikipedia.org/wiki/Bodhi_Linux
 
 ---------------
 
